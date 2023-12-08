@@ -1,0 +1,30 @@
+let tab = ['Andernack	Noé',
+'baiwir	julien',
+'Balhor	Otman',
+'Blampain	Aurélien',
+'Dehaut	Winona',
+'Delfosse	Alexis',
+'Dieu	Damien',
+'Feys	Dylan',
+'Firat	Ugur',
+'Frédéric	Jérémy',
+'Hardat	Mathias',
+'Hecq	Maoro',
+'Jardon	Robin',
+'long	nicolas',
+'Maloteaux	Stacy',
+'Marique	Alice',
+'Mathieu	Denis',
+'Messina	Giuseppe',
+'Petropoulos	Alexis',
+'Rouelle	Cassidy',
+'Sasmaz	Huseyin',
+'Scozzari	Thomas',
+'Seran	Marvin',
+'Wechteti	Hanen',
+'Yaher	Oksana',
+'Zaninello	Joshua',];
+
+for(let learner of tab)
+
+console.log(`apprenant de Wilson 3 : ${learner}`   )
